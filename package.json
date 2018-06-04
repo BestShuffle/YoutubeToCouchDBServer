@@ -1,0 +1,23 @@
+{
+  "name": "bestshuffle-dl-server",
+  "version": "1.0.0",
+  "description": "Websocket music uploader",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "website",
+    "url": "http://sandro-dimitrio.fr/"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "BestShuffle",
+  "license": "MIT"
+}
